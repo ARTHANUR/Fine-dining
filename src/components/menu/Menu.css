@@ -1,0 +1,133 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background: black;
+    color: white;
+    padding-top: 2rem;
+    min-height: 100vh;
+}
+.wine-item{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+.wine-item div div{
+    border: solid 1px gold;
+    width: 4rem;
+    height: 0;
+    margin:  0 2rem;
+}
+.wine-item div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8.5rem;
+}
+.a h1{
+    font-family: 'Cormorant Upright', serif;
+    color:aliceblue;
+    word-spacing: 0.7rem;
+    
+}
+.wine-item div h3{
+    color:#DCCA87 ;
+    font-family: 'Cormorant Upright', serif;
+    word-spacing: 0.5rem;
+}
+.wine-item div h4{
+    font-family: 'Cormorant Upright', serif;
+    font-size: 1.5rem;
+    color: rgb(163, 162, 162);
+}
+.wine-item p{
+    font-family: 'Anuphan', sans-serif;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+/* \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
+
+.b{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8.5rem; 
+}
+.cocktail-item{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+.cocktail-item div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.cocktail-item div div{
+    border: solid 1px gold;
+    width: 4rem;
+    height: 0;
+    margin:  0 2rem;
+}
+.cocktail-item div h3{
+    color:#DCCA87 ;
+    font-family: 'Cormorant Upright', serif;
+    word-spacing: 0.5rem;
+}
+.cocktail-item div h4{
+    font-family: 'Cormorant Upright', serif;
+    font-size: 1.5rem;
+    color: rgb(163, 162, 162);
+}
+.cocktail-item p{
+    font-family: 'Anuphan', sans-serif;
+    font-size: 0.8rem;
+    text-align: center
+}
+.b h1{
+    font-family: 'Cormorant Upright', serif;
+    color:aliceblue;
+    word-spacing: 0.7rem;
+    
+}
+
+/* ///////////////////////////////////////////////////////////// */
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.center h3{
+    font-family: 'Cormorant Upright', serif;
+    font-size: 1rem;
+    word-spacing: 0.2rem;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+.menu-spoon{
+    margin: 1rem 0 2rem 0;
+}
+.center h1{
+    color:#DCCA87 ;
+    font-family: 'Cormorant Upright', serif;
+    font-size: 2.7rem;
+    letter-spacing: 2px;
+}
+
+.menu button {
+    background-color: #DCCA87;
+    width: 6.5rem;
+    height: 2rem;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 550;
+    margin-top: 2rem;
+    color: black;
+}

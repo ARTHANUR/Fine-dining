@@ -1,0 +1,61 @@
+.container img{
+    width: 5rem;
+    height: 4rem;
+    
+
+}
+.container{
+    display: flex;
+    width: 350px;
+    margin: 2rem 0rem 2rem 1rem;
+
+}
+.award-section {
+    display: flex;
+    width: 750px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.container div h1{
+    color: #DCCA87;
+    letter-spacing: 1px;
+    font-size: 1.7rem;
+    font-family: 'Cormorant Upright', serif;
+    transform: translate(0 , 1rem);
+}
+.container p{
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    font-family: 'Anuphan', sans-serif;
+    margin-top: 0.4rem;
+}
+.container div{
+    margin-left: 1rem;
+}
+.award{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0 4rem;
+    padding-top: 10rem;
+}
+.award-img{
+    width: 450px;
+}
+.award-logo{
+    width: 6rem;
+}
+.center{
+    margin-top: 3rem;
+}
+.center img{
+    margin: 0.5rem 0 2rem;
+}
+.center h1{
+    margin-bottom: 2rem;
+    font-family: 'Cormorant Upright', serif;
+}
+.center h3{
+    font-family: 'Cormorant Upright', serif;
+}

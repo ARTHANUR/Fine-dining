@@ -1,0 +1,58 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8rem;
+    background-color: black;
+    height: 100vh;
+}
+.heroimg{
+    width: 35rem;
+    height: 35rem;
+}
+.spoon{
+    width: 3rem;
+}
+.hero div{
+    width: 35rem;
+    height: 35rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 4rem;
+}
+.hero div h5{
+    font-family: 'Cormorant Upright', serif;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    color: white;
+    font-weight: 300;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+.hero div h1{
+    color: #DCCA87;
+    font-family: 'Cormorant Upright', serif;
+    font-size: 4rem;
+    padding-right: 12rem;
+    word-spacing: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+.hero div p{
+    font-family: 'Anuphan', sans-serif;
+    color: white;
+    font-size: 0.8rem;
+    color:rgb(179, 179, 179);
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.hero div button{
+    background-color:#DCCA87 ;
+    width: 8rem;
+    height: 2.5rem;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 600;
+    color: black;
+}
