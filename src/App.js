@@ -2,6 +2,7 @@ import React from "react";
 import Aboutus from "./components/aboutus/Aboutus.jsx";
 import Award from "./components/award/Award.jsx";
 import AwardItem from "./components/award/AwardItem.jsx";
+import Carasoule from "./components/carasoule/Carasoules.jsx";
 import Contactus from "./components/contactus/Contactus.jsx";
 import Findus from "./components/findus/Findus.jsx";
 import Gallery from "./components/gallery/Gallery.jsx";
@@ -107,6 +108,7 @@ const gallery = [
       <Heropage />
       <Aboutus />
       <Menu pwine={wine} pcocktail={cocktail} />
+      <Carasoule />
       <Award />
       <Gallery  pgallery = {gallery} />
       <Findus />

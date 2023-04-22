@@ -1,9 +1,16 @@
-.right img{
+.right  > img{
     min-width: 300px;
     height: 400px;
     margin-left: 2rem;
     cursor: pointer;
+
 }
+/* .right > .img-set{
+    min-width: 300px;
+    height: 400px;
+    margin-left: 2rem;
+    border: 1px solid white;
+} */
 
 
 

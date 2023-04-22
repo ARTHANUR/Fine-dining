@@ -1,0 +1,61 @@
+.chef-container{
+    min-width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 7rem 4rem 4rem 10rem;
+    margin-top: 2rem;
+    
+}
+.chef-img{
+    width:30rem;
+}
+.chef-right{
+    margin-left: 2rem;
+    margin-top: 2.5rem;
+}
+.chef-right>h3{
+    font-family: 'Cormorant Upright', serif;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    font-size: 1rem;
+}
+.chef-right>img:first-of-type{
+    margin: 0.5rem 0 2rem;
+    
+}
+.chef-right>h1{
+    font-family: 'Cormorant Upright', serif;
+    color:#DCCA87;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    font-size: 2.5rem;
+}
+.colon{
+    width: 2.5rem;
+    margin-right: 1rem;
+}
+.chef-right > div{
+    width: 600px;
+}
+.chef-right > div > span{
+    font-family: 'Anuphan', sans-serif;
+    color: rgb(187, 184, 184);
+    font-size: 0.9rem;
+}
+.chef-right > h2{
+    font-family: 'Cormorant Upright', serif;
+    color: #DCCA87;
+    font-weight: 200;
+    margin-top: 2rem;
+    
+}
+.chef-right > p {
+    font-family: 'Anuphan', sans-serif;
+    font-size: 0.8rem;
+    transform: translate(0 , -25px);
+}
+.signature{
+    width: 13rem;
+    margin-top: 2rem;
+}
