@@ -6,7 +6,7 @@ const Newsletter = () => {
     <>
       <div className='newsletter'>
           <h3>Newsletter</h3>
-          <img src="./images/spoon.png" alt="" className="newsletter-spoon" />
+          <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221623/spoon_bdx86r.png" alt="" className="newsletter-spoon" />
           <h1>Subscribe To Our Newsletter</h1>
           <p>And Never Miss Any Latest Update !</p>
           <div>

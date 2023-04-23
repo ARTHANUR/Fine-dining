@@ -24,7 +24,7 @@ const Contactus = () => {
                         service of others "
                     </p>
                     <img
-                        src="./images/spoon.png"
+                        src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221623/spoon_bdx86r.png"
                         className="contactus-spoon"
                         alt=""
                     />

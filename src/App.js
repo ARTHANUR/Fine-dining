@@ -80,22 +80,22 @@ const App = () => {
 
 const gallery = [
   {
-    pic : "./images/gallery1.png"
+    pic : "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221629/gallery1_tfl3zs.png"
   },
   {
-    pic : "./images/gallery2.png"
+    pic : "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221631/gallery2_xdvq13.png"
   },
   {
-    pic : "./images/gallery3.png"
+    pic : "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221637/gallery5_rakhbw.png"
   },
   {
-    pic : "./images/gallery4.png"
+    pic : "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221632/gallery4_ybrel2.png"
   },
   {
-    pic : "./images/gallery5.png"
+    pic : "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221631/gallery3_zhsloi.png"
   },
   {
-    pic : "./images/gallery6.png"
+    pic : "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682226409/gallery7_uf7ytj.png"
   },
 ]
 

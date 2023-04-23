@@ -44,9 +44,9 @@ const renderCocktail = props.pcocktail.map((item) => {
 
         <div className="center" >
           <h3>Menu That Fits Your Palatte</h3>
-          <img className="menu-spoon" src="./images/spoon.png" alt="spoon" />
+          <img className="menu-spoon" src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221623/spoon_bdx86r.png" alt="spoon" />
           <h1>Today's Special</h1>
-          <img  className="menuimg" src="./images/menuimg.png" alt="menuimg" />
+          <img  className="menuimg" src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221627/menuimg_rajzfh.png" alt="menuimg" />
           <button>View More</button>
         </div>
 

@@ -16,7 +16,7 @@ const Gallery = (props) => {
                 <div className="left">
                     <h3>Instagram</h3>
                     <img
-                        src="./images/spoon.png"
+                        src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221623/spoon_bdx86r.png"
                         className="gallery-spoon"
                         alt="spoon"
                     />

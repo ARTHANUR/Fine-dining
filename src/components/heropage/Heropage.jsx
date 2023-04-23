@@ -7,7 +7,7 @@ const Heropage = () => {
       <div className="hero">
         <div>
           <h5>Chase The New Flavour</h5>
-          <img className="spoon" src="./images/spoon.png" alt="" />
+          <img className="spoon" src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221623/spoon_bdx86r.png" alt="" />
           <h1>The Key To Fine Dining</h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis
@@ -17,7 +17,7 @@ const Heropage = () => {
           </p>
           <button>Explore Menu</button>
         </div>
-        <img className="heroimg"  src="./images/heroimg.png" alt="heroimg" />
+        <img className="heroimg"  src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221636/heroimg_zz73k7.png" alt="heroimg" />
       </div>
     </>
   );

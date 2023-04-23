@@ -4,22 +4,22 @@ import AwardItem from "./AwardItem";
 const Award = () => {
   const award = [
     {
-      award: "./images/2award.png",
+      award: "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221594/2award_yqzq9c.png",
       name: "Bib Gourmound",
       desc: " jhdbhjb sjhh jhvcgh hgehtfatje jheajh jjhbeajknke hjeahcjhevv jhdvjajhv ",
     },
     {
-      award: "./images/1award.png",
+      award: "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221574/1award_cthdaq.png",
       name: "Rising Star",
       desc: " jhdbhjb sjhh jhvcgh hgehtfatje jheajh jjhbeajknke hjeahcjhevv jhdvjajhv ",
     },
     {
-      award: "./images/5award.png",
+      award: "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221594/5award_kmcmnf.png",
       name: "AA Hospitality",
       desc: " jhdbhjb sjhh jhvcgh hgehtfatje jheajh jjhbeajknke hjeahcjhevv jhdvjajhv ",
     },
     {
-      award: "./images/3award.png",
+      award: "https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221594/3award_vhdujt.png",
       name: "Outstanding Chef",
       desc: " jhdbhjb sjhh jhvcgh hgehtfatje jheajh jjhbeajknke hjeahcjhevv jhdvjajhv ",
     },
@@ -29,17 +29,17 @@ const Award = () => {
   return (
     <>
       <div className="award">
-        <img src="./images/award-logo.png" alt="" className="award-logo" />
+        <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221595/award-logo_nm3vcp.png" alt="" className="award-logo" />
         <div className="center">
           <h3>Awards & Recognition</h3>
-          <img src="./images/spoon.png" alt="" />
+          <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221623/spoon_bdx86r.png" alt="" />
           <h1>Our Laurels</h1>
 
           <div className="award-section">
             <AwardItem paward={award} />
           </div>
         </div>
-        <img src="./images/award-img.png" alt="" className="award-img" />
+        <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221603/award-img_benmnt.png" alt="" className="award-img" />
       </div>
     </>
   );

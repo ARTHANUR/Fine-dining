@@ -7,7 +7,7 @@ const Findus = () => {
       <div className="find-us">
         <div className="left">
           <h3>Contact</h3>
-          <img className="findus-spoon" src="./images/spoon.png" alt="findus-spoon" />
+          <img className="findus-spoon" src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221623/spoon_bdx86r.png" alt="findus-spoon" />
           <h1>Find Us</h1>
           <p>Malleshwaram 3rd Block , Square Hall Lane , Banglore - 560023</p>
           <h2>Opening Hours</h2><br /><br />
@@ -16,7 +16,7 @@ const Findus = () => {
           <br />
           <button>Visit Us</button>
         </div>
-        <img className="findus-img" src="./images/findus-img.png" alt="findus-img" />
+        <img className="findus-img" src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221652/findus-img_gxygrd.png" alt="findus-img" />
       </div>
     </>
   );

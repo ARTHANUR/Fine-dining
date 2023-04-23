@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <>
          <nav >
-             <img src="./images/logo.png" alt="logo" />
+             <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1682221622/logo_fc4yzr.png" alt="logo" />
              <div>
                <p>Home</p>
                <p>Pages</p>
