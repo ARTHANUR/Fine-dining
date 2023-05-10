@@ -19,14 +19,14 @@ This repository contains the code for a fine dining website built using React. I
 2. Open your web browser and visit: `http://localhost:3000`
 
 ## Deployment
-To deploy the website, follow the instructions provided by your hosting provider for deploying a React application.
+Project is deployed [Here]( https://fine-dining.onrender.com)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a new branch. Submit any pull requests to the main branch for review.
 
 
 ## Credits
-- This website was developed by [Shashank](https://github.com/ARTHANUR).
+- This website was developed by [Shashank Arthanur](https://github.com/ARTHANUR).
 
 ## Desktop View :
 
