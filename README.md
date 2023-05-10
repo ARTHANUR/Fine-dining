@@ -4,7 +4,7 @@ Clone the project and run "npm i" command in the terminal this installs all the 
 ###npm start
 run npm start command to run the project
 
-#desktop view
+#Desktop view
 ![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1683702942/Fine-dining/Screenshot_2023-05-10_124458_nchbcx.png )
 ![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1683702937/Fine-dining/Screenshot_2023-05-10_124527_nmyrjn.png )
 ![image]( https://res.cloudinary.com/dboa7dqkl/image/upload/v1683702588/Fine-dining/Screenshot_2023-05-10_123643_ga30fr.png)
