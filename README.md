@@ -1,7 +1,7 @@
 # Fine-dining
-##npm import
+
 Clone the project and run "npm i" command in the terminal this installs all the necessary packages needed to run the project 
-###npm start
+
 run npm start command to run the project
 
 #Desktop view
