@@ -29,6 +29,9 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## Credits
 - This website was developed by [Shashank Arthanur](https://github.com/ARTHANUR).
 
+## Video Walkthrough:
+See the video walkthrough of the project [Here](https://www.linkedin.com/posts/shashank-arthanur_finediningexperience-restaurantwebsite-reactjs-activity-7067845384584237056-eQC_?utm_source=share&utm_medium=member_desktop)
+
 ## Desktop View :
 
 ![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1683702942/Fine-dining/Screenshot_2023-05-10_124458_nchbcx.png )
